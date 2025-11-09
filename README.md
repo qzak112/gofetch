@@ -31,3 +31,5 @@ Just type:
 ```bash
 gofetch
 ```
+## Screenshots
+![Screenshot of the Go Fetch utility output] (https://github.com/qzak112/gofetch/blob/main/screenshot/region_2025-11-09_01-37-02.png)
