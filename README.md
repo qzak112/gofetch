@@ -25,9 +25,6 @@ go build -o gofetch gofetch.go
 sudo cp gofetch /usr/local/bin/
 sudo chmod +x /usr/local/bin/gofetch
 
-# Run
-gofetch
-```
 
 ## Usage
 
