@@ -10,7 +10,6 @@ another skool projekt :(((((((((
 - Shows: OS, Kernel, CPU, RAM, Uptime
 - Fast (compiled Go binary)
 - No dependencies
-- Works on any Linux with /proc filesystem
 
 ## Installation
 ```bash
