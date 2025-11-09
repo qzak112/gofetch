@@ -18,7 +18,9 @@ git clone https://github.com/qzak112/gofetch.git
 cd gofetch
 
 # Build
-go build -o gofetch gofetch.go
+go mod init github.com/qzak112/gofetch
+go mod tidy
+go build -o gofetch .
 
 # Install system-wide
 sudo cp gofetch /usr/local/bin/
