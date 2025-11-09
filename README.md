@@ -24,7 +24,7 @@ go build -o gofetch gofetch.go
 # Install system-wide
 sudo cp gofetch /usr/local/bin/
 sudo chmod +x /usr/local/bin/gofetch
-
+```
 
 ## Usage
 
