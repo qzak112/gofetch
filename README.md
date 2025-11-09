@@ -39,4 +39,4 @@ MIT
 ## Screenshots
 ![Gofetch](screenshot/region_2025-11-09_01-37-02.png)
 
-![Gofetch](screenshot/gofetch.png)
+![Gofetch](screenshot/gofetch.PNG)
